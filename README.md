@@ -1,1 +1,1 @@
-# Tugas-Praktikum-Sistem_Digital_BCD-to-7-Segment
+# Tugas Praktikum Sistem Digital: BCD to 7 Segment
