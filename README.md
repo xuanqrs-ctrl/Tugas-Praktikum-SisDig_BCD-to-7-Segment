@@ -1,1 +1,1 @@
-# Tugas-Praktikum-SisDig_BCD-to-7-Segment
+# Tugas-Praktikum-Sistem_Digital_BCD-to-7-Segment
