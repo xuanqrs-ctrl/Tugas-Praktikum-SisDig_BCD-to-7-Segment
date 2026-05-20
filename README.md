@@ -31,5 +31,9 @@ Pada display tipe *Common Cathode*, seluruh kaki katoda (negatif) dari struktur 
 * **1x Power Supply 5V**: Sumber tegangan rangkaian.
 * **Kabel Jumper**: Koneksi antar komponen (Merah untuk VCC, Hitam untuk GND).
 
+## Rangkaian BCD to 7 Segment
+<img width="579" height="379" alt="1" src="https://github.com/user-attachments/assets/38ee6810-c72b-4034-930a-384de7f4ba06" />
+
+
 ## Tautan Rangkaian Tinkercad
 * https://www.tinkercad.com/things/66ZQhb7BxoC-bcd-to-7-segment?sharecode=9ZvrhMPsqTDm4qhhmhiIXLoa0HyLt2dvvup24VMkChc
