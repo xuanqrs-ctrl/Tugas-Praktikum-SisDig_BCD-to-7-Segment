@@ -1,6 +1,7 @@
 # Tugas Praktikum Sistem Digital: BCD to 7 Segment
 
 ## Deskripsi
+Rangkaian ini mensimulasikan sistem digital yang mengonversi input data biner 4-bit berformat BCD menjadi sinyal pengendali visual pada *7-Segment Display*. Menggunakan **IC CD4511** (Decoder BCD-to-7-Segment), sistem mendeteksi input desimal dari angka `0` hingga `9`. Jika input melebihi batas BCD (yaitu biner `1010` hingga `1111`), IC secara otomatis akan mematikan seluruh segmen (*blanking*), karena kombinasi tersebut tidak valid dalam sistem pengodean BCD standar. 
 
 ## Anggota Kelompok
 1. Iwa Kumara Alden (H1H025037)
