@@ -1,5 +1,10 @@
 # Tugas Praktikum Sistem Digital: BCD to 7 Segment
 
+## Anggota Kelompok
+1. Iwa Kumara Alden (H1H025037)
+2. Mohammad Naufal Asshidqi (H1H025041)
+3. Edwin Alfian Barin (H1H025070)
+
 ## Deskripsi
 Rangkaian ini mensimulasikan sistem digital yang mengonversi input data biner 4-bit berformat BCD menjadi sinyal pengendali visual pada *7-Segment Display*. Menggunakan **IC CD4511** (Decoder BCD-to-7-Segment), sistem mendeteksi input desimal dari angka `0` hingga `9`. Jika input melebihi batas BCD (yaitu biner `1010` hingga `1111`), IC secara otomatis akan mematikan seluruh segmen (*blanking*), karena kombinasi tersebut tidak valid dalam sistem pengodean BCD standar. 
 
@@ -29,8 +34,3 @@ IC CD4511 adalah decoder CMOS latch/decoder/driver BCD-ke-7-segmen. IC ini diran
 
 ### 3. 7-Segment Display (Common Cathode)
 Pada display tipe *Common Cathode*, seluruh kaki katoda (negatif) dari struktur LED internal dihubungkan menjadi satu pin tunggal (COM) menuju Ground (GND). Agar segmen tertentu (a-g) dapat menyala, pin anoda segmen tersebut harus menerima logika **HIGH** (+5V) dari output IC CD4511.
-
-## Anggota Kelompok
-1. Iwa Kumara Alden (H1H025037)
-2. Mohammad Naufal Asshidqi (H1H025041)
-3. Edwin Alfian Barin (H1H025070)
