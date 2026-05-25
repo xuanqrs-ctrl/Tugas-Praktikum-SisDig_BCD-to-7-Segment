@@ -1,4 +1,5 @@
 # Tugas Praktikum Sistem Digital: BCD to 7 Segment
+Kelompok 7
 
 ## Anggota Kelompok
 1. Iwa Kumara Alden (H1H025037)
